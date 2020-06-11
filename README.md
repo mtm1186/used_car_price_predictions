@@ -40,7 +40,9 @@ Industry standards for appraising the value of vehicles rely on comparable sales
 
 # References 
 Consumer Reports, May, 2014, https://www.consumerreports.org/cro/2012/12/how-much-is-the-used-car-really-worth/
+
 Nerd Wallet, Jeanne Lee Oct, 2015, https://www.nerdwallet.com/blog/loans/dealers-set-car-prices/
+
 InCharge Debt Solutions, Sept, 2017, https://www.incharge.org/understanding-debt/auto/the-truth-about-used-car-prices/
 
 
